@@ -12,7 +12,7 @@ Ofrecer un mejor servico a nuestros pacientes.
 
 ## Icono
 
-![](icon.png=125x125)
+![](icon.png =125x125)
 
 <hr>
 
