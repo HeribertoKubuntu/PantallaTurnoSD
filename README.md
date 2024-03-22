@@ -19,7 +19,7 @@ Ofrecer un mejor servico a nuestros pacientes.
 ## Capturas de Pantalla
 
 ![](captura01.png)
-![](captura02.png)
+![](captura03.png)
 
 <hr>
 
