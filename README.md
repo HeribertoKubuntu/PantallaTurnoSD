@@ -1,4 +1,4 @@
-# Felizometro SD
+# Turnos en Pantalla Salud Digna
 
 ## ¿Qué es?
 Es una aplicación para que nuestros pacientes puedan observar de manera visual el orden de atención en sucursal.
@@ -27,7 +27,7 @@ Ofrecer un mejor servico a nuestros pacientes.
 
 >The [MIT license](https://opensource.org/licenses/MIT) (MIT)
 >
->COPYRIGHT (C) 2022 HERIBERTO DELGADO <heriberto.delgado@salud-digna.org>
+>COPYRIGHT (C) 2024 HERIBERTO DELGADO <abrahery@gmail.com>
 >
 >Por la presente se concede permiso, libre de cargos, a cualquier persona que obtenga una copia de este software y de los archivos de documentación asociados (para el uso del "Software"), el Software se puede utilizar sin restricción alguna, incluidos, entre otros, los derechos de uso, copia, modificación, fusión, publicación, distribución, sublicenciar y/o venta de copias del Software, y para permitir a las personas a las que se les proporcione el Software a hacer lo mismo, sujeto a las siguientes condiciones:
 >
